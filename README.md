@@ -1,4 +1,4 @@
-# Blog-Website-J2EE
+# CodechefDataScrapper
 A Java based Web Scraper which extracts user's data from Codechef from given codechef id.
 
 ## Brief description:
